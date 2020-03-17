@@ -3,7 +3,7 @@
  * Modify the core 'post' post type to take on the guise of a carrot
  *
  * @package Carrot
- * @author  Barry Ceelen barry.ceelen@10up.com
+ * @author  Barry Ceelen b@rryceelen.com
  * @license GPL2+
  */
 
